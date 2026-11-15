@@ -1,5 +1,6 @@
-<div align="center">
+
 # 🧭 The State of Todo - Full Stack Understanding
+
 ## One clean interface built four times to master browser memory, LocalStorage, JSON parsing, and asynchronous Fetch requests.
 
 ### One Todo app, rebuilt five ways — from a bare DOM script to a real REST API with a persistent backend.

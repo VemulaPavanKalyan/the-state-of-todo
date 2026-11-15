@@ -685,7 +685,7 @@ By the end you can look at any CRUD web app and immediately answer:
 
 <div align="center">
 
-### Built by **Harshavardhan**
+### Built by **PavanKalyan**
 
 *A computer science student learning full-stack development by building it from the ground up.*
 
